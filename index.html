@@ -71,7 +71,7 @@
   function detectMobile() {
             const userAgent = navigator.userAgent || navigator.vendor || window.opera;
             if (/android/i.test(userAgent) || /iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
-                alert("You are using a mobile device!");
+                alert("Please use a laptop or desktop for the best experience.");
             }
         }
         window.onload = detectMobile;
