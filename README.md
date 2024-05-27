@@ -1,6 +1,10 @@
 # Task-5-Navbar
 A simple navbar created for Task 5 using HTML and CSS.
 
+# Output
+
+https://github.com/RudrakshDev/Task-5-Navbar/assets/170597596/2fada0cc-ed1c-48f9-bd28-fac06016f924
+
 # Live Link
 
 https://rudrakshdev.github.io/Task-5-Navbar/
