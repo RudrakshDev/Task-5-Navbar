@@ -5,8 +5,6 @@ A simple navbar created for Task 5 using HTML and CSS.
 
 https://rudrakshdev.github.io/Task-5-Navbar/
 
-# Output
-
 ## Contributing
 
 ### If you'd like to contribute improvements to this Cat Photo App, you're welcome! Here's how:
