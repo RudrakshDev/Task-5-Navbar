@@ -3,7 +3,7 @@ A simple navbar created for Task 5 using HTML and CSS.
 
 # Output
 
-https://github.com/RudrakshDev/Task-5-Navbar/assets/170597596/84068225-5c87-4c00-87e7-eacb81923a1c
+https://github.com/RudrakshDev/Task-5-Navbar/assets/170597596/2bad1734-0012-40d5-82ad-69067b480ea0
 
 # Live Link
 
